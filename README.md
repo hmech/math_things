@@ -1,3 +1,2 @@
 # Math Junk
-Here is a collection of mathy python script.
-Most are done in Jupyter Notebook
+Here is a collection of mathy python script done in Jupyter Notebook
